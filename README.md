@@ -16,6 +16,7 @@
 
 <div align="center">
   <img src="https://media.tenor.com/FV2xUD6B2bgAAAAj/chibi-tachyon.gif"/>
+  <img src="https://media1.tenor.com/m/Lw6Z3WhArHcAAAAC/nokotan-anime.gif"/>
 <div/>
 
 
