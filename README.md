@@ -1,4 +1,4 @@
-<h1 align="center">LOOAOOOOOAK</h1>
+<h1 align="end">LOOAOOOOOAK</h1>
 <h2>LOAK<h2/>
 
 ### Hi there 👋
