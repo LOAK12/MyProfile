@@ -14,7 +14,9 @@
 * ⚡ Fun fact: Ibang lumilipad
 
 
+<div align="center">
+  <img src="https://media.tenor.com/FV2xUD6B2bgAAAAj/chibi-tachyon.gif"/>
+<div/>
 
-<img align="center" src="https://media.tenor.com/FV2xUD6B2bgAAAAj/chibi-tachyon.gif"/>
 
 
